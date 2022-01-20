@@ -47,6 +47,7 @@ export const menus = [
       'useCookieState',
       'useLocalStorageState',
       'useSessionStorageState',
+      'useIndexedDB',
       'useDebounce',
       'useThrottle',
       'useMap',

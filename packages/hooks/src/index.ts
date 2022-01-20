@@ -69,7 +69,7 @@ import useUpdateLayoutEffect from './useUpdateLayoutEffect';
 import useVirtualList from './useVirtualList';
 import useWebSocket from './useWebSocket';
 import useWhyDidYouUpdate from './useWhyDidYouUpdate';
-
+import useIndexedDB from './useIndexedDB';
 export {
   useRequest,
   useControllableValue,
@@ -144,4 +144,5 @@ export {
   useGetState,
   clearCache,
   useFocusWithin,
+  useIndexedDB,
 };
